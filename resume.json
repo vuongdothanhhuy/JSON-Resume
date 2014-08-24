@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Huy",
+    "label": "Web Developer",
+    "picture": "https://www.dropbox.com/s/mk7u6f78tg7a5vj/giao-201113-c1755.jpg",
+    "email": "vuongdothanhhuy@gmail.com",
+    "phone": "(+84) 987 189 622",
+    "website": "http://vuongdothanhhuy.github.io/",
+    "summary": "I like reading and acquiring a certain of understanding level of a topic before I begin working with it. I try to understand a thing thoroughly enough to explain it in simple.",
+    "location": {
+      "address": "156/3 KP Long Thoi, TT. Lai Thieu",
+      "postalCode": "84650",
+      "city": "Binh Duong",
+      "countryCode": "VN",
+      "region": "Thuan An"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "huyvuongdothanh",
+        "url": "https://www.linkedin.com/in/huyvuongdothanh"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "RMIT International University Vietnam",
+      "position": "Research Assistant",
+      "website": "http://www.rmit.edu.vn/",
+      "startDate": "2013-10-01",
+      "endDate": "2014-01-31",
+      "summary": "A research internship of 15 weeks. Research topic was about hospital information system (HIS). I took this internship with my research thesis: \"Success factors of HIS in LIC and LMIC\"",
+      "highlights": [
+        "Delivered a research paper discussing the issues and solutions of HIS in developing countries."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Royal Melbourne Institute of Technology",
+      "area": "Information Technology - Application",
+      "studyType": "Bachelor",
+      "startDate": "2010-10-01",
+      "endDate": "2014-01-31",
+      "gpa": "3.2",
+      "courses": [
+        "Introduction to Information Technology (COSC2083)",
+        "Introduction to Programming (COSC2429)",
+        "Introduction to Computer Systems & Platform Technologies (COSC2500)",
+        "Mathematics for Computing (MATH2081)",
+        "Web Programming (COSC2430)",
+        "Programming 1 (COSC2081)",
+        "Database Concepts (ISYS2077)",
+        "Software Engineering Fundamentals (ISYS2089)",
+        "Foundations of Data Comms & Net-centric Computing (COSC2174)",
+        "Programming 2 (COSC2082)",
+        "Web Servers and Web Technology (COSC2171)",
+        "Software Engineering: Process and Tools (COSC2101)",
+        "Mobile Application Development (COSC2543)",
+        "Professional Computing Practice (COSC2130)",
+        "Security in Computing and Information Technology (COSC2539)",
+        "Programming Techniques (COSC2451)",
+        "Programming Using C++ (COSC2131)",
+        "Software Architecture Design & Implementation (COSC2440)",
+        "Intro to Business Info Systems Development (ISYS2115)",
+        "Web Development Technologies (COSC2450)",
+        "Business Database Fundamentals (ISYS2422)",
+        "Programming Project 3 (COSC2223)",
+        "Workplace Preparation Program (WCLL1001)",
+        "Internship (P1 & P2)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJS",
+        "Single Page Application"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional Working"
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reading",
+      "keywords": [
+        "Books"
+      ]
+    }
+  ]
+}
