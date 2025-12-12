@@ -26,7 +26,6 @@
     {
       "name": "Cynopsis Solutions",
       "position": "Senior Frontend Engineer",
-      "url": "",
       "startDate": "2023-12-01",
       "endDate": "",
       "summary": "Specializing in building enterprise-scale applications using Angular and React with TypeScript, implementing sophisticated state management through NgRx and Redux Toolkit. Expert in AI-augmented development with Claude Code, Gemini CLI, and GitHub Copilot, practicing 'expert-guided vibe coding' where senior engineering knowledge enables precise, context-aware prompts that produce production-quality code.",
@@ -43,7 +42,6 @@
     {
       "name": "Employment Hero",
       "position": "Intermediate Frontend Engineer",
-      "url": "",
       "startDate": "2023-08-01",
       "endDate": "2023-10-01",
       "summary": "",
@@ -52,7 +50,6 @@
     {
       "name": "SHOPMACHER eCommerce GmbH & Co. KG",
       "position": "Senior Web Developer",
-      "url": "",
       "startDate": "2017-01-01",
       "endDate": "2023-05-01",
       "summary": "Working on various e-commerce website projects with focus on Javascript and CSS styling. Experience with SYMFONY, SHOPWARE, OXID frameworks, Commerce Tools, and various frontend technologies.",
@@ -67,7 +64,6 @@
     {
       "name": "SHOPMACHER eCommerce GmbH & Co. KG",
       "position": "Junior Backend NodeJS Developer",
-      "url": "",
       "startDate": "2022-12-01",
       "endDate": "2023-04-01",
       "summary": "",
@@ -76,7 +72,6 @@
     {
       "name": "NFQ",
       "position": "Senior Frontend Developer",
-      "url": "",
       "startDate": "2015-12-01",
       "endDate": "2023-05-01",
       "summary": "Front-end Web Developer focusing on latest technologies: HTML5 API, CSS3 with preprocessors (LESS, SCSS, Stylus), JS frameworks and libraries (jQuery, ReactJS with Flux/Redux, AngularJS, Angular 5 with TypeScript).",
@@ -92,7 +87,6 @@
     {
       "name": "Solis Lab Co., Ltd.",
       "position": "Web Developer",
-      "url": "",
       "startDate": "2015-01-01",
       "endDate": "2015-10-01",
       "summary": "Web developer working with both frontend and backend technologies.",
@@ -109,7 +103,6 @@
     {
       "name": "Evil Genius Technologies",
       "position": "Full-stack Web Developer",
-      "url": "",
       "startDate": "2014-03-01",
       "endDate": "2015-01-01",
       "summary": "Full-stack web developer working with NodeJS, PHP, and various frontend technologies.",
@@ -126,7 +119,6 @@
     {
       "organization": "Roman Catholic Church",
       "position": "Catholic Catechist",
-      "url": "",
       "startDate": "2016-09-01",
       "endDate": "2025-07-01",
       "summary": "Teaching the Catechism of the Catholic Church and the Bible to teenagers, preparing students for the Sacrament of Confirmation.",
@@ -141,7 +133,6 @@
     {
       "organization": "Roman Catholic Church",
       "position": "Photographer",
-      "url": "",
       "startDate": "2020-12-01",
       "endDate": "2025-07-01",
       "summary": "Take photos in High Mass.",
@@ -152,7 +143,6 @@
     {
       "organization": "Roman Catholic Church",
       "position": "Minister of Altar Server",
-      "url": "",
       "startDate": "2019-07-01",
       "endDate": "2020-02-01",
       "summary": "Recruiting and organizing the altar server team, managing properties, and training members.",
@@ -167,7 +157,6 @@
     {
       "organization": "Roman Catholic Church",
       "position": "IT Advisor",
-      "url": "",
       "startDate": "2016-06-01",
       "endDate": "2020-02-01",
       "summary": "Digitalized records, developed CMS solutions, and maintained IT infrastructure for the church.",
@@ -183,7 +172,6 @@
   "education": [
     {
       "institution": "Royal Melbourne Institute of Technology",
-      "url": "",
       "area": "Computer Programming/Programmer, General",
       "studyType": "Bachelor of Information Technology",
       "startDate": "2010-01-01",
@@ -193,7 +181,6 @@
     },
     {
       "institution": "RMIT University",
-      "url": "",
       "area": "English Language and Literature, General",
       "studyType": "RMIT English Worldwide, Academic English",
       "startDate": "2010-01-01",
@@ -203,7 +190,6 @@
     },
     {
       "institution": "Vietnamese American Training College (VATC)",
-      "url": "",
       "area": "English Language and Literature, General",
       "studyType": "Certificate of Completion in English Proficiency",
       "startDate": "2004-01-01",
@@ -232,7 +218,6 @@
       "name": "Success factors of HIS in LIC and LMIC",
       "publisher": "RMIT International University Vietnam",
       "releaseDate": "2014-01-01",
-      "url": "",
       "summary": "Research thesis about hospital information system (HIS) success factors in Low Income Countries and Lower-Middle Income Countries."
     }
   ],
@@ -418,8 +403,7 @@
         "Cross-framework compatibility (React, Angular, Web Components)",
         "FaceTec SDK integration",
         "AWS Rekognition facial liveness detection"
-      ],
-      "url": ""
+      ]
     },
     {
       "name": "Church Management System (QLGX CMS)",
@@ -430,8 +414,7 @@
         "Digitalized paper-based records",
         "Excel-based CMS with VBA",
         "Student information management system"
-      ],
-      "url": ""
+      ]
     }
   ]
 }
