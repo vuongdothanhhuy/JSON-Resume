@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Huy",
-    "label": "Web Developer",
-    "picture": "https://www.dropbox.com/s/mk7u6f78tg7a5vj/giao-201113-c1755.jpg",
+    "name": "Huy, Vương Đỗ Thanh",
+    "label": "Senior Frontend Engineer | Angular · React · TypeScript | AI-Augmented Development Specialist",
+    "image": "",
     "email": "vuongdothanhhuy@gmail.com",
-    "phone": "(+84) 987 189 622",
-    "website": "http://vuongdothanhhuy.github.io/",
-    "summary": "I like reading and acquiring a certain of understanding level of a topic before I begin working with it. I try to understand a thing thoroughly enough to explain it in simple.",
+    "phone": "0987189622",
+    "url": "https://www.giaoxuphulong.org/",
+    "summary": "When learning something, I like to dig into it deeply enough to explain it simply. I consider myself a mid-senior web developer focusing on ReactJS frontend, meanwhile, I can also do NodeJS/NextJS backend. I have extensive experience in the e-commerce domain and working with EU clients: GDPR compliance. I am meticulous, think out of the box, and am interested in doing research and getting detailed answers/analyses to questions, which could lead to better decision-making and less predictable and preventable mistakes.",
     "location": {
-      "address": "156/3 KP Long Thoi, TT. Lai Thieu",
-      "postalCode": "84650",
-      "city": "Binh Duong",
+      "address": "",
+      "postalCode": "",
+      "city": "Thị Xã Thuận An",
       "countryCode": "VN",
-      "region": "Thuan An"
+      "region": "Binh Duong"
     },
     "profiles": [
       {
-        "network": "Linkedin",
+        "network": "LinkedIn",
         "username": "huyvuongdothanh",
         "url": "https://www.linkedin.com/in/huyvuongdothanh"
       }
@@ -24,82 +24,414 @@
   },
   "work": [
     {
-      "company": "RMIT International University Vietnam",
-      "position": "Research Assistant",
-      "website": "http://www.rmit.edu.vn/",
-      "startDate": "2013-10-01",
-      "endDate": "2014-01-31",
-      "summary": "A research internship of 15 weeks. Research topic was about hospital information system (HIS). I took this internship with my research thesis: \"Success factors of HIS in LIC and LMIC\"",
+      "name": "Cynopsis Solutions",
+      "position": "Senior Frontend Engineer",
+      "url": "",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "summary": "Specializing in building enterprise-scale applications using Angular and React with TypeScript, implementing sophisticated state management through NgRx and Redux Toolkit. Expert in AI-augmented development with Claude Code, Gemini CLI, and GitHub Copilot, practicing 'expert-guided vibe coding' where senior engineering knowledge enables precise, context-aware prompts that produce production-quality code.",
       "highlights": [
-        "Delivered a research paper discussing the issues and solutions of HIS in developing countries."
+        "Built enterprise-scale applications with Angular and React using TypeScript",
+        "Implemented sophisticated state management with NgRx and Redux Toolkit",
+        "Created complex user interfaces with Material-UI and Angular Material",
+        "Developed custom SDK libraries working across multiple frameworks (React, Angular, Web Components)",
+        "Specialized in biometric authentication systems using FaceTec SDK and AWS Rekognition",
+        "Practiced AI-augmented development with Claude Code, Gemini CLI, and GitHub Copilot",
+        "Maintained quality through ESLint, Prettier, Husky git hooks, and comprehensive testing"
+      ]
+    },
+    {
+      "name": "Employment Hero",
+      "position": "Intermediate Frontend Engineer",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2023-10-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "SHOPMACHER eCommerce GmbH & Co. KG",
+      "position": "Senior Web Developer",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2023-05-01",
+      "summary": "Working on various e-commerce website projects with focus on Javascript and CSS styling. Experience with SYMFONY, SHOPWARE, OXID frameworks, Commerce Tools, and various frontend technologies.",
+      "highlights": [
+        "Worked with SYMFONY, SHOPWARE, OXID framework as frontend",
+        "Utilized Angular2, VueJS, VanillaJS, jQuery, ReactJS",
+        "Worked with Commerce Tools, Jenkins, Microsoft Team Foundation Server",
+        "Experienced with Shopware 5 and 6",
+        "Contributed to in-house development with Commerce Cockpit"
+      ]
+    },
+    {
+      "name": "SHOPMACHER eCommerce GmbH & Co. KG",
+      "position": "Junior Backend NodeJS Developer",
+      "url": "",
+      "startDate": "2022-12-01",
+      "endDate": "2023-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "NFQ",
+      "position": "Senior Frontend Developer",
+      "url": "",
+      "startDate": "2015-12-01",
+      "endDate": "2023-05-01",
+      "summary": "Front-end Web Developer focusing on latest technologies: HTML5 API, CSS3 with preprocessors (LESS, SCSS, Stylus), JS frameworks and libraries (jQuery, ReactJS with Flux/Redux, AngularJS, Angular 5 with TypeScript).",
+      "highlights": [
+        "Worked with ReactJS with Flux/Redux and server-side rendering using RoR or NodeJS",
+        "Developed with ES5 and ES6 transpiled using Babel with Webpack",
+        "Used TypeScript with Angular-CLI",
+        "Optimized websites for performance with careful asset selection and grunt/gulp improvements",
+        "Made websites IE-friendly by patching CSS/JS bugs",
+        "Provided bug-fixing analysis and improvement suggestions from user feedbacks"
+      ]
+    },
+    {
+      "name": "Solis Lab Co., Ltd.",
+      "position": "Web Developer",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-10-01",
+      "summary": "Web developer working with both frontend and backend technologies.",
+      "highlights": [
+        "Frontend: Javascript (AngularJS, jQuery, KnockoutJS), WordPress, CSS3 (SASS, LESS, Bootstrap), Shopify",
+        "Backend: NodeJS (ExpressJS, SailsJS), PHP (WordPress with WP-API plugin)",
+        "Building tools: grunt, gulp",
+        "Third-party APIs: Google Map JS SDK, Facebook/Twitter OAuth",
+        "VPS setup and configuration (Terminal.com, DigitalOcean with Ubuntu, LAMP stack, Nginx + PM2 + MongoDB)",
+        "Website loading speed optimization",
+        "Deployed and scaled NodeJS webapp on Heroku"
+      ]
+    },
+    {
+      "name": "Evil Genius Technologies",
+      "position": "Full-stack Web Developer",
+      "url": "",
+      "startDate": "2014-03-01",
+      "endDate": "2015-01-01",
+      "summary": "Full-stack web developer working with NodeJS, PHP, and various frontend technologies.",
+      "highlights": [
+        "Backend: NodeJS, PHP, Parse Cloud Code, Stripe API integration",
+        "Frontend: AngularJS, BackboneJS, jQuery, Twitter Bootstrap, SCSS",
+        "Supporting tools: grunt, bower, yeoman",
+        "Cloud technologies: Heroku, Parse",
+        "Deployed NodeJS webapp to Heroku"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Roman Catholic Church",
+      "position": "Catholic Catechist",
+      "url": "",
+      "startDate": "2016-09-01",
+      "endDate": "2025-07-01",
+      "summary": "Teaching the Catechism of the Catholic Church and the Bible to teenagers, preparing students for the Sacrament of Confirmation.",
+      "highlights": [
+        "Preparing teaching material",
+        "Assist in students and papers management",
+        "Teach the Catechism of the Catholic Church and the Bible to teenagers",
+        "Preparing students for the Catholic Sacrament of Confirmation",
+        "Organizing the Confirmation Mass"
+      ]
+    },
+    {
+      "organization": "Roman Catholic Church",
+      "position": "Photographer",
+      "url": "",
+      "startDate": "2020-12-01",
+      "endDate": "2025-07-01",
+      "summary": "Take photos in High Mass.",
+      "highlights": [
+        "Photography in High Mass ceremonies"
+      ]
+    },
+    {
+      "organization": "Roman Catholic Church",
+      "position": "Minister of Altar Server",
+      "url": "",
+      "startDate": "2019-07-01",
+      "endDate": "2020-02-01",
+      "summary": "Recruiting and organizing the altar server team, managing properties, and training members.",
+      "highlights": [
+        "Recruiting and organizing the altar server team",
+        "Scheduling and conducting meetings and training sessions",
+        "Managing team's properties (alba clothes, ropes, incense, charcoal)",
+        "Setting visions for the whole team",
+        "Training altar servers and preparing for Children Mass and High Mass"
+      ]
+    },
+    {
+      "organization": "Roman Catholic Church",
+      "position": "IT Advisor",
+      "url": "",
+      "startDate": "2016-06-01",
+      "endDate": "2020-02-01",
+      "summary": "Digitalized records, developed CMS solutions, and maintained IT infrastructure for the church.",
+      "highlights": [
+        "Organized and digitalized paper-based records into QLGX CMS",
+        "Developed Excel-based CMS with VBA for student information management",
+        "Setup and maintained computers, printers, and network",
+        "Provided guidance on Microsoft Word and Excel advanced usage",
+        "Provided suggestions on hardware equipment improvements"
       ]
     }
   ],
   "education": [
     {
       "institution": "Royal Melbourne Institute of Technology",
-      "area": "Information Technology - Application",
-      "studyType": "Bachelor",
-      "startDate": "2010-10-01",
-      "endDate": "2014-01-31",
-      "gpa": "3.2",
-      "courses": [
-        "Introduction to Information Technology (COSC2083)",
-        "Introduction to Programming (COSC2429)",
-        "Introduction to Computer Systems & Platform Technologies (COSC2500)",
-        "Mathematics for Computing (MATH2081)",
-        "Web Programming (COSC2430)",
-        "Programming 1 (COSC2081)",
-        "Database Concepts (ISYS2077)",
-        "Software Engineering Fundamentals (ISYS2089)",
-        "Foundations of Data Comms & Net-centric Computing (COSC2174)",
-        "Programming 2 (COSC2082)",
-        "Web Servers and Web Technology (COSC2171)",
-        "Software Engineering: Process and Tools (COSC2101)",
-        "Mobile Application Development (COSC2543)",
-        "Professional Computing Practice (COSC2130)",
-        "Security in Computing and Information Technology (COSC2539)",
-        "Programming Techniques (COSC2451)",
-        "Programming Using C++ (COSC2131)",
-        "Software Architecture Design & Implementation (COSC2440)",
-        "Intro to Business Info Systems Development (ISYS2115)",
-        "Web Development Technologies (COSC2450)",
-        "Business Database Fundamentals (ISYS2422)",
-        "Programming Project 3 (COSC2223)",
-        "Workplace Preparation Program (WCLL1001)",
-        "Internship (P1 & P2)"
-      ]
+      "url": "",
+      "area": "Computer Programming/Programmer, General",
+      "studyType": "Bachelor of Information Technology",
+      "startDate": "2010-01-01",
+      "endDate": "2013-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "RMIT University",
+      "url": "",
+      "area": "English Language and Literature, General",
+      "studyType": "RMIT English Worldwide, Academic English",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Vietnamese American Training College (VATC)",
+      "url": "",
+      "area": "English Language and Literature, General",
+      "studyType": "Certificate of Completion in English Proficiency",
+      "startDate": "2004-01-01",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduated with Distinction",
+      "date": "",
+      "awarder": "Royal Melbourne Institute of Technology",
+      "summary": ""
+    },
+    {
+      "title": "EAP L7 Completion with High Distinction",
+      "date": "",
+      "awarder": "RMIT University",
+      "summary": ""
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Success factors of HIS in LIC and LMIC",
+      "publisher": "RMIT International University Vietnam",
+      "releaseDate": "2014-01-01",
+      "url": "",
+      "summary": "Research thesis about hospital information system (HIS) success factors in Low Income Countries and Lower-Middle Income Countries."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Frontend Development",
+      "level": "Expert",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "AngularJS",
-        "Single Page Application"
+        "Angular",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Angular Material",
+        "Material-UI",
+        "VueJS",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "State Management",
+      "level": "Expert",
+      "keywords": [
+        "NgRx",
+        "Redux",
+        "Redux Toolkit",
+        "Flux"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "NodeJS",
+        "NextJS",
+        "ExpressJS",
+        "SailsJS",
+        "PHP"
+      ]
+    },
+    {
+      "name": "AI-Augmented Development",
+      "level": "Expert",
+      "keywords": [
+        "Claude Code CLI",
+        "Gemini CLI",
+        "GitHub Copilot"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Advanced",
+      "keywords": [
+        "Jasmine",
+        "Karma",
+        "Jest"
+      ]
+    },
+    {
+      "name": "Build Tools & DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Webpack",
+        "Babel",
+        "Angular-CLI",
+        "grunt",
+        "gulp",
+        "Jenkins",
+        "Heroku"
+      ]
+    },
+    {
+      "name": "APIs & Integration",
+      "level": "Advanced",
+      "keywords": [
+        "GraphQL",
+        "Apollo Client",
+        "REST APIs",
+        "Pusher.js",
+        "AWS Rekognition"
+      ]
+    },
+    {
+      "name": "E-commerce Platforms",
+      "level": "Advanced",
+      "keywords": [
+        "Shopware",
+        "OXID",
+        "Commerce Tools",
+        "Shopify"
+      ]
+    },
+    {
+      "name": "Development Practices",
+      "level": "Expert",
+      "keywords": [
+        "ESLint",
+        "Prettier",
+        "Husky",
+        "WCAG Accessibility",
+        "i18n",
+        "RTL support",
+        "Code splitting",
+        "Lazy loading",
+        "GDPR compliance"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Professional Working"
+      "language": "Vietnamese",
+      "fluency": "Native or Bilingual"
     },
     {
-      "language": "Vietnamese",
-      "fluency": "Native Speaker"
+      "language": "English",
+      "fluency": "Full Professional"
     }
   ],
   "interests": [
     {
-      "name": "Reading",
+      "name": "Information Technology",
       "keywords": [
-        "Books"
+        "Networking",
+        "Microtik",
+        "NAT",
+        "BGP"
       ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Nikon D700",
+        "80-200 F2.8 ED",
+        "RAW",
+        "Lightroom"
+      ]
+    },
+    {
+      "name": "Audio Engineering",
+      "keywords": [
+        "Behringer mixer",
+        "Sound systems",
+        "HPF",
+        "XLR",
+        "TRS"
+      ]
+    },
+    {
+      "name": "Electronics & DIY",
+      "keywords": [
+        "Electrical systems",
+        "Telecom",
+        "SMD soldering",
+        "Repair"
+      ]
+    },
+    {
+      "name": "Science & Technology",
+      "keywords": [
+        "Astronomy",
+        "Automobiles",
+        "NASA DSN"
+      ]
+    },
+    {
+      "name": "Pedagogy",
+      "keywords": [
+        "Teaching",
+        "Catechism",
+        "Youth mentoring"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Biometric Authentication SDK",
+      "startDate": "2023-12-01",
+      "endDate": "",
+      "description": "Custom SDK libraries that work across multiple frameworks (React, Angular, Web Components) for biometric authentication systems utilizing FaceTec SDK and AWS Rekognition for facial liveness detection.",
+      "highlights": [
+        "Cross-framework compatibility (React, Angular, Web Components)",
+        "FaceTec SDK integration",
+        "AWS Rekognition facial liveness detection"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Church Management System (QLGX CMS)",
+      "startDate": "2016-06-01",
+      "endDate": "2020-02-01",
+      "description": "Digitalized and organized large numbers of paper-based records into a comprehensive CMS. Developed Excel-based CMS with VBA for student information management.",
+      "highlights": [
+        "Digitalized paper-based records",
+        "Excel-based CMS with VBA",
+        "Student information management system"
+      ],
+      "url": ""
     }
   ]
 }
